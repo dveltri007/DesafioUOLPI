@@ -1,0 +1,6 @@
+{
+    "testFiles": "**/*.feature",
+    "ignoreTestFiles": ["*.js", "*.md"],
+    "reporter": "reporters/custom.js"
+
+}
